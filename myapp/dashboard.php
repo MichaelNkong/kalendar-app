@@ -22,7 +22,8 @@
           
          </ul>
          <a href="createaccountform.html" class="btn btn-default btn-right " role="button">create acount</a>
-         <a href="#" class="btn btn-default btn-right " role="button">sign in</a>
+         <a href="#" class="btn btn-default btn-right " role="button">create  group</a>
+         <a href="#" class="btn btn-default btn-right " role="button">log out</a>
         </div>
 
       </nav>
